@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/standup-helper/static/js/runtime~main.78ec63f1.js"
   },
   {
-    "revision": "428fa1edd7ca3003ae8c87d603ad19b0",
+    "revision": "1ce40332ebc529a1bc313dac6817f903",
     "url": "/standup-helper/index.html"
   }
 ];
